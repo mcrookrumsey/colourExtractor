@@ -7,4 +7,4 @@ to get the best number of colours that make up the image.
 The program then gives back the colours on the image in little circles and provides the hex
 numbers on a coloured square for each of the colours. 
 
-![alt text](test_image9.png)
+![example image](test_image9.png)
